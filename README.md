@@ -1,9 +1,9 @@
 
-# 🏠 House Price Prediction
+# 🏠 House Price Prediction –AI/ML Internship Task# 06
 
 ## 🎯 Objective
 
-The goal of this project is to predict house prices using machine learning models based on historical housing data from King County, USA. The predictions are based on features like the number of bedrooms, square footage, location, and more.
+This project is part of my AI/ML internship at **DevelopersHub Corporation**. The goal of this project is to predict house prices using machine learning models based on historical housing data from King County, USA. The predictions are based on features like the number of bedrooms, square footage, location, and more.
 
 ---
 
